@@ -6,6 +6,10 @@
 
 `git clone https://github.com/Gouwenkang/pornhub-download.git`
 
+也可以直接下载压缩文件，无需安装git `注：下载的压缩文件需要解压才能使用`
+
+![](https://github.com/Gouwenkang/pornhub-download/blob/master/img/QQ%E6%88%AA%E5%9B%BE20200415152044.png?raw=true)
+
 下载完毕后
 
 + 打开`chrome`浏览器
