@@ -18,4 +18,4 @@
 + 点击加载已解压的扩展程序
 + 选择刚才下载的文件夹即可
 
-![](https://zgao.top/wp-content/uploads/2020/04/TIM%E6%88%AA%E5%9B%BE20200407115127.png)
+![](https://github.com/Gouwenkang/pornhub-download/blob/master/img/TIM截图20200407115127.png?raw=true)
