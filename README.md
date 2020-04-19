@@ -19,3 +19,6 @@
 + 选择刚才下载的文件夹即可
 
 ![](https://github.com/Gouwenkang/pornhub-download/blob/master/img/TIM截图20200407115127.png?raw=true)
+
+### 使用方法
+打开p站，任意播放视频，在播放视频界面打开右上角插件。可以直接点击`下载`按钮，也可以点击`复制`按钮新建窗口下载。
